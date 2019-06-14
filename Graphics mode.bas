@@ -1,0 +1,8 @@
+SCREEN 12
+REM Graphics mode
+CLS
+LINE (40, 60) - (120, 60), 1
+LINE (120, 60) - (120, 140), 2
+LINE (120, 140) - (40, 140), 4
+LINE (40, 140) - (40, 60), 5
+END
